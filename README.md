@@ -1,7 +1,7 @@
 # espftpmonitor
 Nesses vídeos https://youtu.be/iOillxysHbY e https://www.youtube.com/watch?v=gh2n1pHhW7Q é mostrado como enviar dados manualmente para o sanusb.org/ftpmonitor e como o microcontrolador pode enviar automaticamente. É possível postar dados construindo a URL manualmente com os parâmetros do valor do sensor e data e inserindo esse link construido no navegador (google chrome ou firefox) como abaixo:
 
-Construir Links para enviar dados ( http://sanusb.org/ftpmonitor/getESP_condut.php?action=send1&condut=45&date=2022-10-17-14:33:00 )
+Construir Links para enviar dados ( http://sanusb.org/ftpmonitor/ getESP_condut.php?action=send1&condut=45&date=2022-10-17-14:35:00 )
 
 Resposta pode ser vista no gráfico em: http://sanusb.org/ftpmonitor/condut_solo.php
 
