@@ -1,4 +1,6 @@
 # espftpmonitor
+Exemplo de código para enviar para o banco de dados online um valor analógico representado pela leitura de tensão de um potenciômetro e mostra esse valor no gráfico do ftpmonitor.
+
 Nesses vídeos https://youtu.be/iOillxysHbY e https://www.youtube.com/watch?v=gh2n1pHhW7Q é mostrado como enviar dados manualmente para o sanusb.org/ftpmonitor e como o microcontrolador pode enviar automaticamente. É possível postar dados construindo a URL manualmente com os parâmetros do valor do sensor e data e inserindo esse link construido no navegador (google chrome ou firefox) como abaixo:
 
 Construir Links para enviar dados ( http://sanusb.org/ftpmonitor/ getESP_condut.php?action=send1&condut=45&date=2022-10-17-14:35:00 )
