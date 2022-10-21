@@ -1,6 +1,7 @@
 /*
 Exemplo de código para enviar para o banco de dados online um valor analógico representado 
 pela leitura de tensão de um potenciômetro e mostra esse valor no gráfico do ftpmonitor
+em http://sanusb.org/ftpmonitor/condut_solo.php depois do login.
 */
 #include <NTPClient.h> //Instalar a biblioteca https://github.com/SanUSB/NTPClient
 #include <time.h>
