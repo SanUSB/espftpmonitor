@@ -1,3 +1,7 @@
+/*
+Exemplo de código para enviar para o banco de dados online um valor analógico representado 
+pela leitura de tensão de um potenciômetro e mostra esse valor no gráfico do ftpmonitor
+*/
 #include <NTPClient.h> //https://github.com/SanUSB/NTPClient
 #include <time.h>
 #include <WiFi.h>
